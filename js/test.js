@@ -1,0 +1,3 @@
+
+var newScript = new script;
+
